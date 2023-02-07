@@ -1,6 +1,5 @@
 const express = require("express");
 const movies = require("./api/movies");
-const home = require("./api/home");
 const cors = require("cors");
 
 const app = express();
